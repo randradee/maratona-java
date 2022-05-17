@@ -12,13 +12,13 @@ confirmo que recebi o salário de <salario>, na data <data>
 public class Aula03TiposPrimitivosExercicio {
     public static void main(String[] args) {
         String nome = "Renato";
-        String endereco = "Rua da Caixa D'Água, 01";
-        double salario = 2500.99;
+        String endereco = "Rua da Caixa D'Agua, 01";
+        double salario = 25.99;
 
         LocalDateTime data = LocalDateTime.now();
         DateTimeFormatter format = DateTimeFormatter.ofPattern("dd-MM-yyyy");
         String formatDateTime = data.format(format);
 
-        System.out.println("Eu "+nome+", morando no endereço "+endereco+",\nconfirmo que recebi o salário de "+salario+", na data "+formatDateTime);
+        System.out.println("Eu "+nome+", morando no endereco "+endereco+",\nconfirmo que recebi o salario de "+salario+", na data "+formatDateTime);
     }
 }
