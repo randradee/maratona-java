@@ -1,5 +1,7 @@
 package academy.devdojo.maratonajava.introducao;
 
+import java.nio.charset.StandardCharsets;
+
 public class Aula02TiposPrimitivos {
     public static void main(String[] args) {
 
@@ -13,6 +15,9 @@ public class Aula02TiposPrimitivos {
         boolean falso = false;
         char caractere = '\u0041';
 
-        System.out.println(idade);
+        String nome = "Renato";
+        System.out.println(nome);
+        System.out.println(nome.charAt(5));
+
     }
 }
