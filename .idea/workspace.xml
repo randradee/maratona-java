@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="14f45592-7487-42bd-8275-49fec85321ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Aula04Operadores">
     <configuration name="Aula01OlaDevDojo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="adademy.devdojo.maratonajava.introducao.Aula01OlaDevDojo" />
