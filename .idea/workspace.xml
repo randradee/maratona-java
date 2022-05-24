@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais03">
+  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais04">
     <configuration name="Aula05EstruturasCondicionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais01" />
       <module name="maratona" />
@@ -80,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicio" />
+    <configuration name="Aula05EstruturasCondicionais04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais04" />
       <module name="maratona" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula05EstruturasCondicionais04" />
         <item itemvalue="Application.Aula05EstruturasCondicionais03" />
         <item itemvalue="Application.Aula05EstruturasCondicionais02" />
         <item itemvalue="Application.Aula05EstruturasCondicionais01" />
         <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula04Operadores" />
-        <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicio" />
       </list>
     </recent_temporary>
   </component>
