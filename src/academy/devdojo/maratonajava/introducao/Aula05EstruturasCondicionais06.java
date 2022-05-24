@@ -52,7 +52,6 @@ public class Aula05EstruturasCondicionais06 {
                 saida = "Dia inválido";
         }
 
-
         System.out.printf(saida);
     }
 }
