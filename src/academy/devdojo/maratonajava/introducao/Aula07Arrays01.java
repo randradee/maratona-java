@@ -7,15 +7,13 @@ public class Aula07Arrays01 {
         // boolean false
         // String null <- vale pra qualquer reference
 
+        int[] numeros = new int[3];
+        int[] numeros2 = {1, 2, 3, 4, 5};
+        int[] numeros3 = new int[]{1, 2, 3, 4, 5};
 
-        String[] nomes = new String[5];
-        nomes[0] = "Goku";
-        nomes[1] = "Kurosaki";
-        nomes[2] = "Luffy";
-
-
-        for (String nome : nomes) {
-            System.out.println(nome);
+        for(int numero: numeros3){
+            System.out.println(numero);
         }
+
     }
 }
