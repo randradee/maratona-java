@@ -8,7 +8,10 @@ public class Aula07Arrays01 {
         // String null <- vale pra qualquer reference
 
 
-        String[] nomes = new String[3];
+        String[] nomes = new String[5];
+        nomes[0] = "Goku";
+        nomes[1] = "Kurosaki";
+        nomes[2] = "Luffy";
 
 
         for (String nome : nomes) {
