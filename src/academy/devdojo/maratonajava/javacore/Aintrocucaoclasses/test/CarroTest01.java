@@ -16,5 +16,10 @@ public class CarroTest01 {
 
         carro1.printInfos();
         carro2.printInfos();
+
+        carro1 = carro2; // Trocando a referência, e a referência de carro1 foi perdida
+
+        carro1.printInfos();
+        carro2.printInfos();
     }
 }
