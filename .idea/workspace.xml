@@ -48,9 +48,15 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.CarroTest01">
     <configuration name="Aula08ArraysMultidimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula08ArraysMultidimensionais01" />
+=======
+  <component name="RunManager" selected="Application.CalculadoraTest01">
+    <configuration name="Aula08ArraysMultidimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula08ArraysMultidimensionais02" />
+>>>>>>> 0462df18ba9af592f0237de6355693a9feb06b72
       <module name="maratona" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula08ArraysMultidimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula08ArraysMultidimensionais02" />
+    <configuration name="CalculadoraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Bintroducaometodos.test.CalculadoraTest01" />
       <module name="maratona" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculadoraTest01" />
         <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.ProfessorTest01" />
         <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.Aula08ArraysMultidimensionais02" />
-        <item itemvalue="Application.Aula08ArraysMultidimensionais01" />
       </list>
     </recent_temporary>
   </component>
