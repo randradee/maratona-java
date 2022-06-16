@@ -7,6 +7,8 @@ public class CalculadoraTest01 {
         Calculadora calculadora1 = new Calculadora();
 //        calculadora1.somaDoisNumeros();
 //        calculadora1.subtraiDoisNumeros();
-        System.out.println("que porra eh essa");
+        calculadora1.multiplicaDoisNumeros(2, 3);
+
+
     }
 }

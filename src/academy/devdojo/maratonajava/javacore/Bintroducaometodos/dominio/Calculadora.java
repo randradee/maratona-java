@@ -10,4 +10,8 @@ public class Calculadora {
         System.out.println(21 - 2);
     }
 
+    public void multiplicaDoisNumeros(int n1, int n2){
+        System.out.println(n1 * n2);
+    }
+
 }
